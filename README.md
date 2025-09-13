@@ -5,7 +5,7 @@
 
 Aim : Build a content-based movie recommender system that recommends movies similar to the movie the user likes.
 
-App : [Click on this to launch the app](https://shashwatpasari-movie-recommender-2-app-bnxdl5.streamlit.app/)
+App : [Click here to launch the app](https://movie-recommender2.streamlit.app/)
 
 ## Softwares
 * Python (for backend)
